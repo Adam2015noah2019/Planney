@@ -256,5 +256,5 @@ def main():
         print("Invalid input. Please enter valid numbers for budget and time.")
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()  # Corrected indentation here
